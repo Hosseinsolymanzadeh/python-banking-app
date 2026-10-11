@@ -1,0 +1,1 @@
+"""Educational banking application package."""

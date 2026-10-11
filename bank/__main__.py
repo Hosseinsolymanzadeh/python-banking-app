@@ -1,0 +1,1 @@
+print('Banking app skeleton - no features yet.')
